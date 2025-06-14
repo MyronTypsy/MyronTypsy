@@ -1,9 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
-> “Hi I am Routh Fatima" 
+---
 
+# 👩‍💻 Ruth Fatima
+
+Hi! I'm Ruth — a curious and driven student with a deep interest in **AI, cybersecurity, software development**, and **community-driven tech initiatives**. From building Discord-based learning platforms to designing AI-powered cybersecurity tools, I love creating things that make a difference.
 
 ---
 
