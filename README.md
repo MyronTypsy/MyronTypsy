@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👩‍💻 Ruth Fatima
 
-<!--
-**MyronTypsy/MyronTypsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Ruth — a curious and driven student with a deep interest in **AI, cybersecurity, software development**, and **community-driven tech initiatives**. From building Discord-based learning platforms to designing AI-powered cybersecurity tools, I love creating things that make a difference.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🏫 Currently pursuing A-Levels at **Westminster International School**, on a **75% Merit Scholarship** (2023–2025).
+- 💡 Passionate about **AI for Cybersecurity** — currently exploring intelligent red teaming tools using ML and system-level analysis.
+- 🧠 Building a smart assistant for students at GIKI, focusing on NLP and backend integration.
+- 🌐 Actively contributing to community-driven projects, educational forums, and school tech events.
+
+---
+
+## 🛠️ Projects & Initiatives
+
+### 📌 AI-Powered Red Teaming Tool (In Progress)
+A cybersecurity project that:
+- Uses AI to scan and analyze system vulnerabilities.
+- Predicts attack paths using learned behavior.
+- Offers a chatbot interface for real-time attacker interaction and decision-making.
+
+### 🎓 Peer Tutoring Discord Platform
+As **President of the Peer Tutoring Club**:
+- Created a Discord server for IGCSE & A-Level students with subject-specific study rooms.
+- Built an onboarding system for class/subject selection.
+- Enabled study-focused group calls, note sharing, and discussions.
+- Added moderation bots to maintain academic integrity and safety.
+
+---
+
+## 💻 Technical Skills
+
+- **Languages**: Python, C++
+- **Tools**: Discord API, SQLite, Flask, Git
+- **Domains**: AI/ML, Cybersecurity, Backend Development, Student Tech Solutions
+
+---
+
+## 📄 Certifications & Leadership
+
+- 🎤 **President – Peer Tutoring Club** (2024–2025)
+- 💻 **IT Director – Phoenix Fest** (2024–2025)
+- 🖥️ **Co-Head of IT – Phoenix Fest** (2023–2024)
+- 🧪 **Participant – International Science Youth Symposium (GIKI)** 11th Edition
+- 🏆 **Outstanding Result – CAIEs** (Rubrics High Achiever 2022–2023)
+- 🗳️ **Delegate – WMUN’24 (UNESCO Committee)**
+- 🐎 **Certified Rider – Bahria Riding Club** (Member since Jan 2023)
+
+---
+
+## 💬 Let’s Connect
+
+- 📧 Email: [ruthfatima0508@gmail.com](mailto:ruthfatima0508@gmail.com)
+- 📱 Phone: +92 336 8988894
+- 🌍 Currently based in Islamabad, Pakistan
+
+---
+
+> *"I believe in building smarter, faster, and better — one line of code, one idea, and one collaboration at a time."*
