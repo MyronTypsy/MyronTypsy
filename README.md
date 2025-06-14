@@ -32,9 +32,17 @@ As **President of the Peer Tutoring Club**:
 
 ## 💻 Technical Skills
 
-- **Languages**: Python, C++
-- **Tools**: Discord API, SQLite, Flask, Git
-- **Domains**: AI/ML, Cybersecurity, Backend Development, Student Tech Solutions
+## 🛠️ Languages & Tools
+
+### Languages:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
